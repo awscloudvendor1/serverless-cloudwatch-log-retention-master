@@ -4,8 +4,6 @@ This lambda function adds a retention policy to CloudWatch log group[s] that doe
 
 ![AWS Serverless CloudWatch Logs Retention Policy Enforcer](images/miztiik-serverless-cloudwatch-log-retention-policy.png)
 
-## Follow this article in [Youtube](https://youtu.be/k0_TersWbtI)
-
 1. ## Prerequisites
 
 - AWS CLI pre-configured
